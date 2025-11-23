@@ -1,0 +1,9 @@
+sentence-transformers
+numpy
+faiss-cpu
+openai
+mlflow
+pydantic
+python-dotenv
+pyyaml
+pytest

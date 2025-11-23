@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/679708155540530186/39a70ffa6e2d4c378cccf6ddbb2beff7/artifacts
+end_time: 1763841622559
+entry_point_name: ''
+experiment_id: '679708155540530186'
+lifecycle_stage: active
+run_id: 39a70ffa6e2d4c378cccf6ddbb2beff7
+run_name: rag_query
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763841621017
+status: 3
+tags: []
+user_id: raman
